@@ -7,3 +7,4 @@ Update README with participation strategy and tracking structure
 Add explanation of reward distribution expectations and timeline
 Improve formatting and reorganize airdrop instruction sections
 Finalize first draft of Vizo Airdrop participation guide
+ecosystem activity documentation repository
