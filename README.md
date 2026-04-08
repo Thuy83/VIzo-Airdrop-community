@@ -1,1 +1,2 @@
 Add introduction explaining Vizo project overview and airdrop goals
+Create step-by-step guide for joining the Vizo airdrop campaign
